@@ -1,0 +1,747 @@
+{
+  "poems": [
+    {
+      "name": "Kat",
+      "id": 0,
+      "line2": "with physical books.",
+      "age": "",
+      "line1": "Places to also escape the digital world",
+      "line0": "Digital based community centres."
+    },
+    {
+      "name": "Chris",
+      "id": 1,
+      "line2": "my future library.",
+      "age": "",
+      "line1": "tools and mass education.",
+      "line0": "skills and media."
+    },
+    {
+      "name": "Ruth",
+      "id": 2,
+      "line2": "Think and dream, a place open to everyone.",
+      "age": "",
+      "line1": "An archive for your films, photos, writing.",
+      "line0": "Share your experience here."
+    },
+    {
+      "name": "Cliff",
+      "id": 3,
+      "line2": "imagine discover educate set free",
+      "age": "",
+      "line1": "earthbound history here & now books",
+      "line0": "dream pages flying words"
+    },
+    {
+      "name": "Gillian",
+      "id": 4,
+      "line2": "bursting at seams",
+      "age": "",
+      "line1": "reflections, memories ideas",
+      "line0": "A place for dreams,"
+    },
+    {
+      "name": "Charlotte",
+      "id": 5,
+      "line2": "so we can all read together in cosy spaces",
+      "age": "",
+      "line1": "and instantly transportable",
+      "line0": "A library will be both instantly translatable"
+    },
+    {
+      "name": "Josh",
+      "id": 6,
+      "line2": "versions of the books.",
+      "age": "",
+      "line1": "that allow you to get electronic",
+      "line0": "More books from other countries,apps"
+    },
+    {
+      "name": "",
+      "id": 7,
+      "line2": "interact with virtual staff and public",
+      "age": "",
+      "line1": "will enter a virtual space and",
+      "line0": "A virtual representation of yourself"
+    },
+    {
+      "name": "Maria",
+      "id": 8,
+      "line2": "like on a Kindle",
+      "age": "",
+      "line1": "copies",
+      "line0": "More electronic"
+    },
+    {
+      "name": "Beryl",
+      "id": 9,
+      "line2": "now",
+      "age": "80",
+      "line1": "how it is",
+      "line0": "Hopefully"
+    },
+    {
+      "name": "Margaret",
+      "id": 10,
+      "line2": "Superior internet collection.",
+      "age": "82",
+      "line1": "Detail play & learn area for children.",
+      "line0": "Holograph tutorials. History of books."
+    },
+    {
+      "name": "",
+      "id": 11,
+      "line2": "help for young Mums with small children.",
+      "age": "",
+      "line1": "get more help, and also more for",
+      "line0": "Art work shown so people can"
+    },
+    {
+      "name": "Bev",
+      "id": 12,
+      "line2": "Big part of the community.",
+      "age": "53",
+      "line1": "for people to meet and talk.",
+      "line0": "Libraries will be the main place"
+    },
+    {
+      "name": "Francesca",
+      "id": 13,
+      "line2": "+ outdoor areas.",
+      "age": "33",
+      "line1": "- with cafes, working spaces",
+      "line0": "A sociable space for all ages"
+    },
+    {
+      "name": "Liz",
+      "id": 14,
+      "line2": "& learning. The heart of a community.",
+      "age": "33",
+      "line1": "book & lots of interesting discussion",
+      "line0": "A meeting place, a coffee, a good"
+    },
+    {
+      "name": "Gerard",
+      "id": 15,
+      "line2": "with a cafe and outside seating in Summer.",
+      "age": "80",
+      "line1": "library could be \"Standish Community Centre\"",
+      "line0": "It would be wonderful if the"
+    },
+    {
+      "name": "Jean",
+      "id": 16,
+      "line2": "to those who prefer actual books.",
+      "age": "67",
+      "line1": "I hope it will still be available",
+      "line0": "Having used the library for 60 years"
+    },
+    {
+      "name": "Dawn",
+      "id": 18,
+      "line2": "Supporting vulnerable people.",
+      "age": "38",
+      "line1": "at good & bad times.",
+      "line0": "Be there for the Community"
+    },
+    {
+      "name": "Marion",
+      "id": 19,
+      "line2": "of books & several libraries",
+      "age": "78",
+      "line1": "I was lost. They have my range",
+      "line0": "When the libraries were closed"
+    },
+    {
+      "name": "Colin",
+      "id": 20,
+      "line2": "ich hoffe alles klappt und gibts alles noch.",
+      "age": "58",
+      "line1": "Hopefully we're here in 50 yrs to witness it",
+      "line0": "I don't think there will be any books as such"
+    },
+    {
+      "name": "David",
+      "id": 21,
+      "line2": "choose a book yourself and read.",
+      "age": "60",
+      "line1": "for future generations. Still be able to",
+      "line0": "Hope the libraries are still 'here'"
+    },
+    {
+      "name": "Sharon",
+      "id": 22,
+      "line2": "The screen will use face recognition.",
+      "age": "",
+      "line1": "installed in place of staff.",
+      "line0": "The library will have several screens"
+    },
+    {
+      "name": "Sharon",
+      "id": 23,
+      "line2": "it can be watched as a drama as an option.",
+      "age": "",
+      "line1": "to request a book;",
+      "line0": "The library will offer a service"
+    },
+    {
+      "name": "Sharon",
+      "id": 24,
+      "line2": "for refreshments.",
+      "age": "",
+      "line1": "electronic gadgets",
+      "line0": "There will be self serve"
+    },
+    {
+      "name": "Sharon",
+      "id": 25,
+      "line2": "as a reminder of the olden times!!!",
+      "age": "",
+      "line1": "fish display",
+      "line0": "And...a virtual big wall mounted"
+    },
+    {
+      "name": "Richard",
+      "id": 26,
+      "line2": "will appear, chosen by Google.",
+      "age": "",
+      "line1": "and a list of recommended books",
+      "line0": "You could swipe into your library account"
+    },
+    {
+      "name": "Richard",
+      "id": 27,
+      "line2": "so they just swipe in to choose books.",
+      "age": "",
+      "line1": "will be a chip in their arm,",
+      "line0": "People's id"
+    },
+    {
+      "name": "Richard",
+      "id": 28,
+      "line2": "Robots will shelve books. Virtual staff.",
+      "age": "",
+      "line1": "Books could be read online or downloaded.",
+      "line0": "Hand held scanners like supermarkets."
+    },
+    {
+      "name": "Richard",
+      "id": 29,
+      "line2": "With lighting, heating, and air conditioning.",
+      "age": "",
+      "line1": "choose your virtual theme, like a beach.",
+      "line0": "Mood pods. Sit in a chair and"
+    },
+    {
+      "name": "Rutendo",
+      "id": 30,
+      "line2": "that we will be using ipads or like a laptop.",
+      "age": "9",
+      "line1": "a lot more technology and",
+      "line0": "I think there would be"
+    },
+    {
+      "name": "Rutendo ",
+      "id": 31,
+      "line2": "There could be a homework area.",
+      "age": "9",
+      "line1": "so that people can listen to music.",
+      "line0": "There could be headphones"
+    },
+    {
+      "name": "Nadine",
+      "id": 32,
+      "line2": "and movies available. Even homeless allowed.",
+      "age": "13",
+      "line1": "addressed illiteracy. Games, music",
+      "line0": "Have better programming and"
+    },
+    {
+      "name": "Willow",
+      "id": 33,
+      "line2": "people borrow more books.",
+      "age": "11",
+      "line1": "amounts of books and will let",
+      "line0": "Our library will have vast"
+    },
+    {
+      "name": "Autumn",
+      "id": 34,
+      "line2": "and will be bigger.",
+      "age": "4",
+      "line1": "more books in",
+      "line0": "It will have"
+    },
+    {
+      "name": "Anonymous",
+      "id": 35,
+      "line2": "friend. And the wall could be sound proof.",
+      "age": "",
+      "line1": "for food, drinks and hang out with",
+      "line0": "The library could add cake shop."
+    },
+    {
+      "name": "Brian",
+      "id": 36,
+      "line2": "onto Electronic Reader. What a nightmare.",
+      "age": "84",
+      "line1": "worldwide available to download at home",
+      "line0": "Year 2071. No libraries. All books"
+    },
+    {
+      "name": "Ellie",
+      "id": 37,
+      "line2": "It will be very modern",
+      "age": "10",
+      "line1": "open a book it has audio.",
+      "line0": "I think that when you"
+    },
+    {
+      "name": "Anonymous",
+      "id": 38,
+      "line2": "members of the library",
+      "age": "",
+      "line1": "with new books and loads of new",
+      "line0": "There might be loads of different rooms"
+    },
+    {
+      "name": "Joshua",
+      "id": 39,
+      "line2": "from 50 years ago",
+      "age": "10",
+      "line1": "it will have old books",
+      "line0": "Old, modern"
+    },
+    {
+      "name": "Ellie R",
+      "id": 40,
+      "line2": "more baby stuff",
+      "age": "10",
+      "line1": "more computers, more pictures,",
+      "line0": "Television, more colouring stuff"
+    },
+    {
+      "name": "Mrs Winstanley",
+      "id": 41,
+      "line2": "to help children to understand",
+      "age": "",
+      "line1": "some books or other internet messages",
+      "line0": "Lots of shows for all ages relating to"
+    },
+    {
+      "name": "Millie",
+      "id": 42,
+      "line2": "music",
+      "age": "10",
+      "line1": "you don't have to be quiet",
+      "line0": "More technology, more shows, more toys"
+    },
+    {
+      "name": "Samantha",
+      "id": 43,
+      "line2": "radio",
+      "age": "10",
+      "line1": "will be",
+      "line0": "The books"
+    },
+    {
+      "name": "Lilly",
+      "id": 44,
+      "line2": "for the book display",
+      "age": "10",
+      "line1": "on the carpet and a stand",
+      "line0": "A baby area so there will be cushions"
+    },
+    {
+      "name": "Laura",
+      "id": 45,
+      "line2": "snack time",
+      "age": "10",
+      "line1": "In the play zone you should have",
+      "line0": "Give out cupcake for free."
+    },
+    {
+      "name": "Maddison",
+      "id": 46,
+      "line2": "I get bigger",
+      "age": "",
+      "line1": "when",
+      "line0": "I can teach books"
+    },
+    {
+      "name": "Jacob",
+      "id": 47,
+      "line2": "that reads the book to you",
+      "age": "10",
+      "line1": "with tech",
+      "line0": "It may be antique books"
+    },
+    {
+      "name": "Jayden",
+      "id": 48,
+      "line2": "make it dance themed",
+      "age": "10",
+      "line1": "see more dances by Hawk Dance and",
+      "line0": "Games on a tv and"
+    },
+    {
+      "name": "Rowan",
+      "id": 49,
+      "line2": "TV it antique.",
+      "age": "10",
+      "line1": "with the beginning of the letter.",
+      "line0": "All the books could be in order"
+    },
+    {
+      "name": "Jamie",
+      "id": 50,
+      "line2": "It may not be a library.",
+      "age": "10",
+      "line1": "It may be a park.",
+      "line0": "No carpit."
+    },
+    {
+      "name": "Tyler",
+      "id": 51,
+      "line2": "   ",
+      "age": "10",
+      "line1": "Television",
+      "line0": "a"
+    },
+    {
+      "name": "Anonymous",
+      "id": 52,
+      "line2": "abandoned",
+      "age": "",
+      "line1": "will be",
+      "line0": "It"
+    },
+    {
+      "name": "Layla",
+      "id": 53,
+      "line2": "Celebrating Christmas and halloween.",
+      "age": "10",
+      "line1": "Old books.",
+      "line0": "A heart poster saying different meanings"
+    },
+    {
+      "name": "Eimantas A",
+      "id": 54,
+      "line2": "more poems or shows to watch",
+      "age": "10",
+      "line1": "something to watch or",
+      "line0": "A tv or"
+    },
+    {
+      "name": "MR ALTY",
+      "id": 55,
+      "line2": "the title.",
+      "age": "10",
+      "line1": "when you say",
+      "line0": "Books that come to you"
+    },
+    {
+      "name": "Ryley",
+      "id": 56,
+      "line2": "and gaming setup",
+      "age": "",
+      "line1": "and water park",
+      "line0": "A cinema"
+    },
+    {
+      "name": "Bobby",
+      "id": 57,
+      "line2": "the name of the book it will come to you.",
+      "age": "10",
+      "line1": "or it might be old. If you say",
+      "line0": "It might be modern"
+    },
+    {
+      "name": "Gabriel",
+      "id": 58,
+      "line2": "books",
+      "age": "10",
+      "line1": "dancing/delivering",
+      "line0": "Robots"
+    },
+    {
+      "name": "Lennie",
+      "id": 59,
+      "line2": "a playground.",
+      "age": "10",
+      "line1": "should be",
+      "line0": "There"
+    },
+    {
+      "name": "Jason",
+      "id": 60,
+      "line2": "would help get books for humans.",
+      "age": "10",
+      "line1": "at the hinges and library ghosts",
+      "line0": "The library would be old and falling apart"
+    },
+    {
+      "name": "Thomas",
+      "id": 61,
+      "line2": "And different places for different ages.",
+      "age": "10",
+      "line1": "they are going and a craft and arts.",
+      "line0": "A map of the place so they know where"
+    },
+    {
+      "name": "Anne",
+      "id": 62,
+      "line2": "Click and collect for busy people.",
+      "age": "68",
+      "line1": "facilitate but not replace browsing.",
+      "line0": "Personal algorithm of reading taste to"
+    },
+    {
+      "name": "Olivia",
+      "id": 63,
+      "line2": "Also a few old paintings.",
+      "age": "9",
+      "line1": "be plenty of books inside it.",
+      "line0": "In 50 years I think there will"
+    },
+    {
+      "name": "Kai",
+      "id": 64,
+      "line2": "to read.",
+      "age": "",
+      "line1": "Difer book",
+      "line0": "More book."
+    },
+    {
+      "name": "Bobbi",
+      "id": 65,
+      "line2": "of different stuff.",
+      "age": "9",
+      "line1": "More performants",
+      "line0": "different types of Books/Authors."
+    },
+    {
+      "name": "Ameliase",
+      "id": 66,
+      "line2": "big kids area, payment.",
+      "age": "9",
+      "line1": "coming, more painting, robots,",
+      "line0": "More books, old. More people"
+    },
+    {
+      "name": "Alisha",
+      "id": 67,
+      "line2": "cool objects and more space.",
+      "age": "9",
+      "line1": "a few paintings, play areas",
+      "line0": "I think there will be more books,"
+    },
+    {
+      "name": "Simone",
+      "id": 68,
+      "line2": "more decoration and space in 50 years.",
+      "age": "",
+      "line1": "library, in 50 years. I would like to see",
+      "line0": "I think there will be more books in the"
+    },
+    {
+      "name": "Bentley",
+      "id": 69,
+      "line2": "and more books. ",
+      "age": "",
+      "line1": "hard work put in",
+      "line0": "It wad be more"
+    },
+    {
+      "name": "Leah",
+      "id": 70,
+      "line2": "big panels on the walls and different rooms.",
+      "age": "",
+      "line1": "I also think there will be naice three",
+      "line0": "I think they will be around 50m long!"
+    },
+    {
+      "name": "",
+      "id": 71,
+      "line2": "books.",
+      "age": "",
+      "line1": "more books because now there is so many",
+      "line0": "I think in 50 years there will be lots"
+    },
+    {
+      "name": "",
+      "id": 72,
+      "line2": "waching dance.",
+      "age": "9",
+      "line1": "a play area get food while",
+      "line0": "In 50 years I would like"
+    },
+    {
+      "name": "",
+      "id": 74,
+      "line2": "silent.",
+      "age": "",
+      "line1": "loads new books. You will have to be",
+      "line0": "I think in 50 years there will be"
+    },
+    {
+      "name": "Ladya",
+      "id": 75,
+      "line2": "that will bring the book.",
+      "age": "8",
+      "line1": "a unicorn, I love the dance",
+      "line0": "I think I like it. I think a riding"
+    },
+    {
+      "name": "Lola",
+      "id": 76,
+      "line2": "more authors.",
+      "age": "9",
+      "line1": "shows. More books and",
+      "line0": "Maybe the books will turn into"
+    },
+    {
+      "name": "Leila ",
+      "id": 77,
+      "line2": "it gets better. And more gift cards.",
+      "age": "9",
+      "line1": "kids libery the payment gose up so",
+      "line0": "More books and a cafey a big"
+    },
+    {
+      "name": "Amelia",
+      "id": 78,
+      "line2": "would like to do & books that make their day.",
+      "age": "9",
+      "line1": "that inspire young people to do whatever they",
+      "line0": "In 50 years, I would like to see more books"
+    },
+    {
+      "name": "Charlie",
+      "id": 79,
+      "line2": "areas for comunity space.",
+      "age": "",
+      "line1": "decorations. More circits and more",
+      "line0": "More books, play areas. More"
+    },
+    {
+      "name": "Jacob",
+      "id": 80,
+      "line2": "in 50 years.",
+      "age": "9",
+      "line1": "library",
+      "line0": "I want to see robots in this"
+    },
+    {
+      "name": "Baldwin",
+      "id": 81,
+      "line2": "might be more new books in 50 years.",
+      "age": "9",
+      "line1": "shelves will be added and that there",
+      "line0": "I think that more books and"
+    },
+    {
+      "name": "Amelia",
+      "id": 82,
+      "line2": "More cular.",
+      "age": "9",
+      "line1": "Food. Drink",
+      "line0": "Big. More buks."
+    },
+    {
+      "name": "Isaac",
+      "id": 83,
+      "line2": "choose a book.",
+      "age": "",
+      "line1": "books over and",
+      "line0": "I think robots mechanics will bring"
+    },
+    {
+      "name": "Connor ",
+      "id": 84,
+      "line2": "in fiftea years.",
+      "age": "8",
+      "line1": "Robot",
+      "line0": "I want to see"
+    },
+    {
+      "name": "Poppy",
+      "id": 85,
+      "line2": "to ball pit.",
+      "age": "9",
+      "line1": "colring robox bring book",
+      "line0": "More book food more poster"
+    },
+    {
+      "name": "Isaac",
+      "id": 86,
+      "line2": "snacks to you.",
+      "age": "9",
+      "line1": "mechanical. Robots will bring books and",
+      "line0": "I think it will be robotic and"
+    },
+    {
+      "name": "Libby",
+      "id": 87,
+      "line2": "toys.",
+      "age": "",
+      "line1": "pit cafa and",
+      "line0": "More book littel food shop ball"
+    },
+    {
+      "name": "Leasha",
+      "id": 88,
+      "line2": "be a robot to bring the bugs to the people.",
+      "age": "9",
+      "line1": "be a lot more books. There might",
+      "line0": "In 50 years I think there will"
+    },
+    {
+      "name": "Phoebe",
+      "id": 89,
+      "line2": "the one you want and it brings it to you.",
+      "age": "8",
+      "line1": "books are on a screen and you pick",
+      "line0": "I hope librarys in 50 years times is all the"
+    },
+    {
+      "name": "Jasmine",
+      "id": 90,
+      "line2": "I wish that there be nature in it.",
+      "age": "",
+      "line1": "be computers in the kids section.",
+      "line0": "In 50 years I think that there will"
+    },
+    {
+      "name": "Alfie",
+      "id": 91,
+      "line2": "and where you can write your own.",
+      "age": "",
+      "line1": "such as more shelfs reading spaces",
+      "line0": "In 50 years I would like more decorations"
+    },
+    {
+      "name": "Alicia",
+      "id": 92,
+      "line2": "for kids.",
+      "age": "",
+      "line1": "books and books",
+      "line0": "I think there will be more"
+    },
+    {
+      "name": "Pete",
+      "id": 93,
+      "line2": "too valuable to fell for paper-making.",
+      "age": "over 21",
+      "line1": "with digital content - trees will be",
+      "line0": "Libraries will become a social hub"
+    }
+  ],
+  "excerpts": [
+    {"text": "Librarians are a troop of kangaroos,\ncarrying our youngest into the future.\nOur children are the librarians,\nthe volunteers and borrowers of books,\nthe custodians of our future libraries.\nThe key is catching babies' imaginations.\nWe're going on a library hunt. Hold on tight."},
+    {"text": "Librarians are a family of otters,\nwelcoming us through their doors.\nA library is, and always will be\nmultigenerational, multicultural.\nBienvenue, witamy, marhaba."},
+    {"text": "Librarians are a movement of moles,\nburied deep in archives.\nSometimes they have their noses\nin a book, peeping out of the dark.\nYou know what a mole is like\nwhen it emerges into the light."},
+    {"text": "Librarians are not dinosaurs,\nthey are nothing like a terror of T-Rexes.\nBut they help to keep the bones\nof our dinosaurs safe, preserving histories.\nWalking with librarians into the future,\nwe keep our past safe."}
+  ],
+  "version": "2021-44-11 12:44:49"
+}
